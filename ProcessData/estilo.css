@@ -1,0 +1,62 @@
+html {
+    margin: 0;
+    padding: 0;
+}
+body {
+    font-family: fantasy;
+    font-size: 13pt;
+    background-color: #b3b2b2;
+    padding: 10px;
+    margin: 10px 10px 10px 10px;
+}
+h1 {
+    font-size: 15pt;
+    color: steelblue;
+    text-align: center;
+    padding: 18px 0 18px 0;
+    margin: 0 0 10px 0;
+}
+h1 span {
+    border: 4px solid steelblue;
+    padding: 10px;
+}
+p {
+    padding: 0;
+    margin: 0;
+}
+
+h2 {
+    font-size: 15pt;
+    color: steelblue;
+    text-align: left;
+    padding: 18px 0 18px 0;
+    margin: 0 0 10px 0;
+}
+
+.seccion {
+    background-color: #fff;
+    padding: 15px;
+    margin-bottom: 10px;
+    border-radius: 10px;
+}
+.cita {
+    font-size: 12pt;
+    text-align: right;
+    margin-top: 10px;
+}
+table {
+    width: 50%;
+}
+
+table, th, td {
+    color: black;
+    text-align: center;
+    table-layout: fixed;
+    border: 2px solid #cecece;
+    border-collapse: collapse;
+}
+
+li {
+    margin-bottom: 15px;
+    font-weight: bold;
+}
